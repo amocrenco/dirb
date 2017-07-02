@@ -119,3 +119,4 @@ javascripts/application.js
 javascripts/prototype.js
 stylesheets/application.css
 images/rails.png
+sidekiq
